@@ -15,7 +15,7 @@
 </p>
 ### About me:
 
-- Engineering [at] ![Exotel](https://www.exotel.com) @Bangalore
+- Engineering [at] [Exotel](https://www.exotel.com) @Bangalore
 - Working in Core Engineering Team as a SDE - 3. 
 - Would love to catch up folks who is interested in bike trips over the weekend.
 
