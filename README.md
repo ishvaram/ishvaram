@@ -5,8 +5,17 @@
 
 
 <p align='center'>
-<img src="https://cdn.dribbble.com/users/4770/screenshots/300576/attachments/12205/hey-1.png" alt="Hey" width="20%" height="05%">
+<img src="https://github.com/ishvaram/ishvaram/blob/master/img/hey.gif" alt="Hey" width="20%" height="05%">
 </p>
+<p align='center'>
+  <img  src="https://github.com/ishvaram/ishvaram/blob/master/img/backend-dev.gif" alt="dev gif">
+</p>
+### About me:
+
+- Engineering [at] ![Exotel](https://www.exotel.com) @Bangalore
+- Working in Core Engineering Team as a SDE - 3. 
+- Would love to catch up folks who is interested in bike trips over the weekend.
+
 
 Here are some ideas to get you started:
 
