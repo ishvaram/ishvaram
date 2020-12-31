@@ -5,7 +5,7 @@
 
 
 <p align='center'>
-<img src="./img/hey.png" alt="Hey" width="20%" height="05%">
+<img src="./img/hey.jpeg" alt="Hey" width="20%" height="05%">
 </p>
 <p align='center'>
   <img  src="./img/backend-dev.gif" alt="dev gif">
