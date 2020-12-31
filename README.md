@@ -5,7 +5,7 @@
 
 
 <p align='center'>
-<img src="https://github.com/ishvaram/ishvaram/blob/master/img/hey.gif" alt="Hey" width="20%" height="05%">
+<img src="https://github.com/ishvaram/ishvaram/blob/master/img/hey.png" alt="Hey" width="20%" height="05%">
 </p>
 <p align='center'>
   <img  src="https://github.com/ishvaram/ishvaram/blob/master/img/backend-dev.gif" alt="dev gif">
