@@ -7,7 +7,7 @@
 <p align='center'>
 <img src="./img/hey.jpeg" alt="Hey" width="20%" height="05%">
 </p>
-<h2 align="center"> There!?.. I'm <a href="http://imkovalan.me/">Kovalan. R</a>💬</h2>
+<h2 align="center"> There!?.. I'm <a href="http://imkovalan.me/">Kovalan. R</a> 💬 </h2>
 
 
 <p align='center'>
