@@ -17,8 +17,8 @@
 ## About me:
 
 - Engineering [at] [Exotel](https://www.exotel.com) @Bangalore
-- Occasionally in for long trips, Esp. to mountains and beaches
-- FAF, Transformers series and MCU Movies are my Fav.
+- Occasionally in for long trips, esp. to mountains and beaches
+- FAF, Transformers Series and MCU movies are my fav.
 
 <h3 align="left">💻 Languages and Tools</h3>
 <p align="left">
