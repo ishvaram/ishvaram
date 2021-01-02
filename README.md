@@ -17,7 +17,7 @@
 <a href="https://twitter.com/KovalanR"><img src="https://img.shields.io/badge/twitter-%230db7ed.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/919677624102"><img src="https://img.shields.io/badge/whatsapp-%23009639.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;
 </p>
-<img src="./img/connect.png" alt="connect" width="20%" height="10%">
+<img src="./img/connect.png" alt="connect" width="20%" height="10%" style="position:relative;left: 71%;">
 <p align='center'>
   <img  src="./img/backend-dev.gif" alt="dev gif">
 </p>
