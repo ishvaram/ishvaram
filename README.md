@@ -8,7 +8,6 @@
 <img src="./img/hey.jpeg" alt="Hey" width="20%" height="05%">
 </p>
 <h2 align="center"> There!?.. I'm <a href="http://imkovalan.me/">Kovalan. R</a> 📫 </h2>
-
 <p align="center">
 <a href="https://www.facebook.com/nxtgenguy/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ramkovalan/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
@@ -28,7 +27,11 @@
 - Occasionally in for long trips, esp. to mountains and beaches
 - FAF, Transformers Series and MCU movies are my fav.
 
-<h3 align="left">💻 Languages and Tools</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ishvaram&show_icons=true&count_private=true&theme=dark&layout=compact" alt="ishvaram"/>
+</p>
+
+<h3 align="left">💻 Tools and Languages </h3>
 <p align="left">
 	<img src="https://img.shields.io/badge/Go-%23316192.svg?style=for-the-badge&logo=go&logoColor=white"/>&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
