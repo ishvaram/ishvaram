@@ -9,11 +9,12 @@
 </p>
 <h2 align="center"> There!?.. I'm <a href="http://imkovalan.me/">Kovalan. R</a> 📫 </h2>
 <p align="center">
+<a href="https://www.linkedin.com/in/kovalan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/KovalanR"><img src="https://img.shields.io/badge/twitter-%230db7ed.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/nxtgenguy/" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ramkovalan/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kovalan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:jehovaram@gmail.com?subject=Vanakkam%20Kovalan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/KovalanR"><img src="https://img.shields.io/badge/twitter-%230db7ed.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>&nbsp;&nbsp;
+
 <a href="https://wa.me/919677624102"><img src="https://img.shields.io/badge/whatsapp-%23009639.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;
 </p>
 
