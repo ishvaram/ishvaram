@@ -51,5 +51,5 @@
 </p>
 
 ```markdown
-Life would be easier if i've had the source code!!
+/* Life would be easier if i've had the source code!! */
 ```
