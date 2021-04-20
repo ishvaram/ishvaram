@@ -1,4 +1,3 @@
-![Profile Visits](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=ishvaram.ishvaram)
 ![Status](https://img.shields.io/badge/status-buckling_down-blueviolet) 
 ![Gender](https://img.shields.io/badge/gender-male-9cf) 
 ![Marital Status](https://img.shields.io/badge/marital_status-single-red)
